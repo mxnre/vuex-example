@@ -24,7 +24,7 @@ Browse through each project by going through the folders as listed below.
 
 ### Getting Started
 
-- Clone the Repo: `git clone https://github.com/ooade/vuex-examples.git`
+- Clone the Repo: `git clonehttps://github.com/mxnre/vuex-example.git`
 
 ### Running each project
 
